@@ -33,7 +33,9 @@ Save the Python script (e.g., volleyball_scoreboard.py) on your PC.
 Run the script:
 
 Bash
+
 python volleyball_scoreboard.py
+
 A desktop control panel will open, and a scoreboard_data/ folder will be created automatically in the same directory.
 
 3. Setting Up OBS Studio
